@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Skålen</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap">
+</head>
+<body>
+    <h1>Välkommen till Skålen</h1>
+    <h2>Lägg till spel</h2>
+    <input type="text" id="spelInput" placeholder="Skriv in ett spel">
+    <button id="slumpaKnapp">Slumpa spel</button>
+    <button id="rensaKnapp">Rensa lista</button>
+
+    <ul id="spelLista"></ul>
+    <p id="resultat"></p>
+
+    <h2>Lägg till spelare</h2>
+    <input type="text" id="spelareInput" placeholder="Skriv in en spelare">
+    <button id="slumpaLagKnapp">Slumpa lag</button>
+    <button id="rensaSpelareKnapp">Rensa spelare</button>
+    <div id="spelareListaContainer">
+        <ul id="spelareLista"></ul>
+    </div>
+
+    <table id="lagResultat">
+        <tr>
+            <td id="lag1"></td>
+            <td id="lag2"></td>
+        </tr>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>

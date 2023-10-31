@@ -1,0 +1,94 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #3498db;
+    color: #f0f0f0;
+}
+
+h1 {
+    font-size: 60px;
+    color: #f7dc6f;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #f05656;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff3535;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #f7dc6f;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: 20px auto;
+    background: none;
+}
+
+table td {
+    padding: 10px 10px;
+    border: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    font-weight: bold;
+}
+
+ul li {
+    margin-bottom: 8px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#resultat {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.spelInput {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.error-text {
+    font-weight: bold;
+    font-size: 18px;
+}
