@@ -58,15 +58,20 @@ table td {
 
 #resultat {
     font-weight: bold;
-    font-size: 26px;
+    font-size: 24px;
 }
 
 .error-text {
     font-weight: bold;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 tr {
     font-weight: bold;
-    font-size: 26px;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #f7dc6f;
 }
