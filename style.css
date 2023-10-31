@@ -3,27 +3,27 @@ body {
     text-align: center;
     background-color: #3498db;
     color: #f0f0f0;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
     color: #f7dc6f;
 }
 
-input {
-    padding: 5px;
-    margin: 10px;
+input, button {
+    padding: 10px;
+    margin: 5px;
     background-color: #f0f0f0;
     border: none;
     border-radius: 5px;
+    width: 200px; /* Gemensam bredd för input och knappar */
 }
 
 button {
-    padding: 10px 20px;
     background-color: #f05656;
     color: #fff;
-    border: none;
-    border-radius: 5px;
     cursor: pointer;
 }
 
@@ -31,7 +31,7 @@ button:hover {
     background-color: #ff3535;
 }
 
-ul {
+ul, li {
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -39,11 +39,9 @@ ul {
 
 li {
     margin-bottom: 8px;
-}
-
-h2 {
-    font-size: 20px;
-    color: #f7dc6f;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
 }
 
 table {
@@ -54,28 +52,8 @@ table {
 }
 
 table td {
-    padding: 10px 10px;
+    padding: 10px;
     border: none;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    text-align: left;
-    font-weight: bold;
-}
-
-ul li {
-    margin-bottom: 8px;
-    font-size: 18px;
-    text-align: center;
-    font-weight: bold;
-}
-
-tr {
-    font-weight: bold;
-    font-size: 18px;
 }
 
 #resultat {
@@ -83,12 +61,12 @@ tr {
     font-size: 18px;
 }
 
-.spelInput {
+.error-text {
     font-weight: bold;
     font-size: 18px;
 }
 
-.error-text {
+tr {
     font-weight: bold;
     font-size: 18px;
 }
