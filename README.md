@@ -12,10 +12,6 @@ With Skålen, users can list the games they are considering playing, and Skålen
 2. Click "Slumpa spel" (Randomize game) to let Skålen choose a game for you.
 3. Use the function for randomizing teams and ensuring fair team lineups.
 
-## Contact
-
-Have questions or feedback? Contact us!
-
 ## How to Use
 
 1. **Add Games**: Begin by adding the games you're considering playing to the list.
