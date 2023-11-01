@@ -22,7 +22,7 @@ Have questions or feedback? Contact us!
 
 2. **Randomize Game**: Click the "Slumpa spel" button to let Skålen choose a game for you from your list.
 
-3. **Randomize Teams**: Use this feature to randomize teams and ensure a fair distribution of players.
+3. **Randomize Teams**: Use this feature to randomize teams and ensure fair player distribution.
 
 ## Contact Us
 
