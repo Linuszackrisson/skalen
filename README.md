@@ -2,9 +2,9 @@
 
 ## Overview
 
-Skålen is a simple web page created with a touch of humor, born from an inside joke within an old group of friends. The idea came to life during LAN events, where choosing which game to play was always a challenge due to the vast array of available games.
+Skålen is a simple web page created with a touch of humor, born from an inside joke among a group of old friends. The idea came to life during LAN events, where choosing which game to play was always a challenge due to the vast array of available games.
 
-With Skålen, users can list the games they are considering playing, and Skålen will randomly select a game for them. Additionally, it has a feature to randomize teams and ensure a fair gaming experience. Say goodbye to decision anxiety and start playing quickly and fairly!
+With Skålen, users can list the games they are considering playing, and Skålen will randomly select a game for them. Additionally, it offers a feature to randomize teams and ensure a fair gaming experience. Say goodbye to decision anxiety and start playing quickly and fairly!
 
 ## Usage
 
